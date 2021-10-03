@@ -1,0 +1,4 @@
+django-cache
+venv
+.idea
+.sqlite3
